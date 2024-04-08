@@ -181,7 +181,7 @@ h2 {
 
 @keyframes sql {
     100%{
-        width: 30%;
+        width: 50%;
     }
 }
 
@@ -567,4 +567,9 @@ footer {
     to {
         transform: translateY(-2000px);
     }
+}
+
+.Card-text {
+    color: #000;
+    font-size: 12px;
 }
